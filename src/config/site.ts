@@ -116,7 +116,7 @@ export const siteConfig = {
     defaultDescription:
       "Aarohan Legal is an independent legal practice focused on careful legal analysis, responsible advocacy and clear communication within the institutions of Indian law.",
     siteUrl: "https://aarohanlegal.example",
-    ogImage: "/og.svg",
+    ogImage: "/og.png",
     twitterCard: "summary_large_image" as const,
   },
 
